@@ -1,0 +1,123 @@
+
+main {
+    display: flex;
+    justify-content: center;
+
+
+    padding: 3rem 0;
+}
+.line-post {
+    height: 2px;
+    background-color: #3E445B;
+}
+
+
+.cabeca{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+
+.card-body-post {
+    margin-top: 25px;
+
+}
+
+.fields {
+    margin-bottom: 20px;
+    
+}
+
+.card-post {
+    background-color: #2F3644;
+    padding: 30px 70px;
+    border-radius: 15px;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 600;
+    color: #ACBAE1;
+    font-size: 30px;
+}
+
+.form {
+    padding: 0 40px 30px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.form-control label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+
+    color: #D2DAF5;
+}
+
+.form-control input {
+    height: 45px;
+}
+
+input, textarea {
+    width: 100%;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+
+    font-size: 1.2rem;
+
+    padding-left: 15px;
+}
+
+input {
+    height: 45px;
+}
+
+textarea {
+    height: 190px;
+    resize: none;
+
+    padding-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 7px;
+    font-size: 1.2rem;
+
+    color: #D2DAF5;
+
+
+}
+
+.btn-post{
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.btn-post button{
+    font-family: Heebo;
+    font-weight: 800;
+    font-size: 1.3rem;
+
+    padding: 5px 50px;
+    color: #fff;
+    background-color: #3DECB1;
+
+    border: 0;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+}
+
